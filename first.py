@@ -1,7 +1,7 @@
-# Programming Python.
-# TASK 001
-# WELCOME TO PYTHON
-# WEEK 01
+# # WELCOME TO PYTHON # #
+# Programming Python. WEEK 01
+# 001 --> 010
+# TASK 001 - Creating file
 # --------------------
 # TASK 002 - declaration of variables
 Name : str
