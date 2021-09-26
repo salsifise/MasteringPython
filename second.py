@@ -64,3 +64,14 @@ nom = "Elzero"
 print(nom.index("z"))
 #--------------------------------------------------
 # TASK 011 - replace words 
+Msg = "I <3 Python and Although <3 Elzero Web School"
+print(Msg.replace("<3","Love"))
+#--------------------------------------------------
+# TASK 012 - replace words (just one time)
+MSG = "I <3 Python and Although <3 Elzero Web School"
+print(MSG.replace("<3", "Love", 1))
+#--------------------------------------------------
+# TASK 013 - print name, age(int), country by Format ""f
+namee = "Younes"
+agge = 23
+countryy = "Algeria"
